@@ -16,3 +16,9 @@ LinearRegression.py -> In this file is implemented the linear regression, appros
 timeSeriesForecast.py -> In this file is implemented the forecast process with the arima model.
 
 forecast.py -> In this file is there is the script for estimating the parameters of the arima model.
+
+
+********************************
+We did not provide the files with the data.
+If you want to try the entire code with also the files, please send an email to  93lorenzo@gmail.com
+********************************
