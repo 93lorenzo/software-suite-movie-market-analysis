@@ -1,7 +1,7 @@
 # software-suite-movie-market-analysis
-The follwoing code was developed by Dario Molinari, Daniele De Cillis, Lorenzo Vitali for the exam of Data Mining in the Master of Artificial Intelligence and Robotics of Sapienza University.
+The following code was developed by Dario Molinari, Daniele De Cillis, Lorenzo Vitali for the exam of Data Mining in the Master of Artificial Intelligence and Robotics of Sapienza University.
 
-The aim of this project is to create a classifier to predict a rating class of a future movie, submitting the actors, the director, the writer.
+The aim of this project is to create a classifier able to predict a rating class of a future movie, submitting the actors, the director, the writer.
 
 Moreover to understand the level of classification we compared our method with a another regression algorithm, also there are some codes regarding data analysis as "best actor by genre" , "most popular movie by genre".
 
